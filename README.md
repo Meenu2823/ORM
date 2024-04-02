@@ -7,16 +7,16 @@ To develop a Django application to store and retrieve data from a Book database 
 ## DESIGN STEPS
 
 ### STEP 1:
-Clone the problem from GitHub
+Clone the problem from GitHub.
 
 ### STEP 2:
-Create a new app in Django project
+Create a new app in Django project.
 
 ### STEP 3:
-Enter the code for admin.py and models.py
+Enter the code for admin.py and models.py.
 
 ### STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 books.
 
 ## PROGRAM
 
@@ -46,4 +46,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 ![Screenshot 2024-04-02 203634](https://github.com/Meenu2823/ORM/assets/139416219/64a025f9-4fc4-468a-bf43-56ecd73770ee)
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
